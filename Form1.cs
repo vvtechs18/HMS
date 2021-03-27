@@ -14,7 +14,7 @@ namespace Hospital_Management_system
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); ;
         }
 
     }
